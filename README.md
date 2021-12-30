@@ -1,4 +1,3 @@
-# Getting Started with Create React App
+# Modelo de Cardápio Digital Interativo com ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://raw.githubusercontent.com/sergiostvs/cardapio-digital-burgers/main/print.jpg
